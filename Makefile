@@ -1,7 +1,7 @@
 m="added new kata"
 
 git:
-	python createREADME.py
+	python3 createREADME.py
 	git add .
 	git commit -m $m
 	git push origin main

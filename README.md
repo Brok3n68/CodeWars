@@ -20,3 +20,5 @@
 
     
 * [[3 kyu] Human readable duration format.py](./Python/[3%20kyu]%20Human%20readable%20duration%20format.py)
+
+* [[6 kuy] Help the bookseller.py](./Python/[6%20kuy]%20Help%20the%20bookseller.py)
