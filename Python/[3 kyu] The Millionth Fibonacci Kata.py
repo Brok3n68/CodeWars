@@ -18,7 +18,7 @@ def fib(n):
         else:
             return (c, d)
     
-    #F(-n) = (-1)^(n+1) * F(|n|)
+    #F(-n) = (-1)^(n+1) * F(|n|) 
     if n < 0:
         return (-1)**(abs(n) + 1) * fib_positive(abs(n))[0]
     else:
