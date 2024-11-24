@@ -23,3 +23,4 @@ def format_duration(seconds):
         return ", ".join(res[:-1]) + " and " + res[-1]
     else:
         return res[0]
+    
