@@ -1,4 +1,4 @@
-m="added new kata"
+m="💻 added new kata"
 
 git:
 	python3 createREADME.py
