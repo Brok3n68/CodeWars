@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/52742f58faf5485cae000b9a
+# https://www.codewars.com/kata/52742f58faf5485cae000b9a 
 
 def format_duration(seconds):
     time = {
