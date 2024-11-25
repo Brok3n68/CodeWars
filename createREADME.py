@@ -2,6 +2,7 @@
   Python file to generate the README.md file every time i upload a new kata
   Each folder in the path represents a Language (except paths starting with ".")
   and each file in the folder represents a Kata (except files that do not start with a bracket "[")
+  Credits to https://github.com/KonstantinosAng/CodeWars/blob/master/Makefile
 """
 
 import os
