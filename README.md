@@ -29,9 +29,13 @@
 
 * [[4 kyu] Most frequently used words in a text.py](./Python/[4%20kyu]%20Most%20frequently%20used%20words%20in%20a%20text.py)
 
+* [[4 kyu] Snail.py](./Python/[4%20kyu]%20Snail.py)
+
 * [[4 kyu] Sum by Factors.py](./Python/[4%20kyu]%20Sum%20by%20Factors.py)
 
 * [[4 kyu] Sum Strings as Numbers.py](./Python/[4%20kyu]%20Sum%20Strings%20as%20Numbers.py)
+
+* [[4 kyu] Twice linear.py](./Python/[4%20kyu]%20Twice%20linear.py)
 
 * [[5 kyu] Last digit of a large number.py](./Python/[5%20kyu]%20Last%20digit%20of%20a%20large%20number.py)
 
@@ -50,6 +54,8 @@
 * [[5 kyu] RGB To Hex Conversion.py](./Python/[5%20kyu]%20RGB%20To%20Hex%20Conversion.py)
 
 * [[5 kyu] Rot13.py](./Python/[5%20kyu]%20Rot13.py)
+
+* [[5 kyu] Simple Encryption.py](./Python/[5%20kyu]%20Simple%20Encryption.py)
 
 * [[5 kyu] Simple Pig Latin.py](./Python/[5%20kyu]%20Simple%20Pig%20Latin.py)
 
@@ -120,3 +126,5 @@
 * [[8 kyu] Reversed Words.py](./Python/[8%20kyu]%20Reversed%20Words.py)
 
 * [[8 kyu] Total amount of points.py](./Python/[8%20kyu]%20Total%20amount%20of%20points.py)
+
+* [[8 kyu] Unfinished Loop.py](./Python/[8%20kyu]%20Unfinished%20Loop.py)
