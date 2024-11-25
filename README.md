@@ -59,6 +59,8 @@
 
 * [[5 kyu] Simple Pig Latin.py](./Python/[5%20kyu]%20Simple%20Pig%20Latin.py)
 
+* [[5 kyu] Tic-Tac-Toe Checker.py](./Python/[5%20kyu]%20Tic-Tac-Toe%20Checker.py)
+
 * [[6 kuy] Help the bookseller.py](./Python/[6%20kuy]%20Help%20the%20bookseller.py)
 
 * [[6 kyu] Break camelCase.py](./Python/[6%20kyu]%20Break%20camelCase.py)
