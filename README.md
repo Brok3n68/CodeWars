@@ -31,6 +31,8 @@
 
 * [[4 kyu] Snail.py](./Python/[4%20kyu]%20Snail.py)
 
+* [[4 kyu] Strings Mix.py](./Python/[4%20kyu]%20Strings%20Mix.py)
+
 * [[4 kyu] Sum by Factors.py](./Python/[4%20kyu]%20Sum%20by%20Factors.py)
 
 * [[4 kyu] Sum Strings as Numbers.py](./Python/[4%20kyu]%20Sum%20Strings%20as%20Numbers.py)
@@ -83,6 +85,8 @@
 
 * [[6 kyu] Split Strings.py](./Python/[6%20kyu]%20Split%20Strings.py)
 
+* [[7 kyu] Are the numbers in order.py](./Python/[7%20kyu]%20Are%20the%20numbers%20in%20order.py)
+
 * [[7 kyu] Check three and two.py](./Python/[7%20kyu]%20Check%20three%20and%20two.py)
 
 * [[7 kyu] Exes and Ohs.py](./Python/[7%20kyu]%20Exes%20and%20Ohs.py)
@@ -126,6 +130,8 @@
 * [[8 kyu] Multiply.py](./Python/[8%20kyu]%20Multiply.py)
 
 * [[8 kyu] Reversed Words.py](./Python/[8%20kyu]%20Reversed%20Words.py)
+
+* [[8 kyu] Take the Derivative.py](./Python/[8%20kyu]%20Take%20the%20Derivative.py)
 
 * [[8 kyu] Total amount of points.py](./Python/[8%20kyu]%20Total%20amount%20of%20points.py)
 
