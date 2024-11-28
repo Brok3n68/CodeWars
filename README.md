@@ -19,6 +19,8 @@
 ## Python
 
     
+* [[3 kyu] Binomial Expansion.py](./Python/[3%20kyu]%20Binomial%20Expansion.py)
+
 * [[3 kyu] Last digit of a huge number.py](./Python/[3%20kyu]%20Last%20digit%20of%20a%20huge%20number.py)
 
 * [[3 kyu] The Millionth Fibonacci Kata.py](./Python/[3%20kyu]%20The%20Millionth%20Fibonacci%20Kata.py)
@@ -27,13 +29,19 @@
 
 * [[4 kyu] Human readable duration format.py](./Python/[4%20kyu]%20Human%20readable%20duration%20format.py)
 
+* [[4 kyu] Matrix Determinant.py](./Python/[4%20kyu]%20Matrix%20Determinant.py)
+
 * [[4 kyu] Most frequently used words in a text.py](./Python/[4%20kyu]%20Most%20frequently%20used%20words%20in%20a%20text.py)
 
 * [[4 kyu] Snail.py](./Python/[4%20kyu]%20Snail.py)
 
 * [[4 kyu] Strings Mix.py](./Python/[4%20kyu]%20Strings%20Mix.py)
 
+* [[4 kyu] Strip Comments.py](./Python/[4%20kyu]%20Strip%20Comments.py)
+
 * [[4 kyu] Sum by Factors.py](./Python/[4%20kyu]%20Sum%20by%20Factors.py)
+
+* [[4 kyu] Sum of Intervals.py](./Python/[4%20kyu]%20Sum%20of%20Intervals.py)
 
 * [[4 kyu] Sum Strings as Numbers.py](./Python/[4%20kyu]%20Sum%20Strings%20as%20Numbers.py)
 
