@@ -99,6 +99,8 @@
 
 * [[7 kyu] Exes and Ohs.py](./Python/[7%20kyu]%20Exes%20and%20Ohs.py)
 
+* [[7 kyu] Matrix creation.py](./Python/[7%20kyu]%20Matrix%20creation.py)
+
 * [[7 kyu] Minimum Steps.py](./Python/[7%20kyu]%20Minimum%20Steps.py)
 
 * [[7 kyu] Move 10.py](./Python/[7%20kyu]%20Move%2010.py)
@@ -119,6 +121,8 @@
 
 * [[7 kyu] Two to One.py](./Python/[7%20kyu]%20Two%20to%20One.py)
 
+* [[8 kyu] A Strange Trip to the Market.py](./Python/[8%20kyu]%20A%20Strange%20Trip%20to%20the%20Market.py)
+
 * [[8 kyu] Abbreviate a Two Word Name.py](./Python/[8%20kyu]%20Abbreviate%20a%20Two%20Word%20Name.py)
 
 * [[8 kyu] Contamination #1 -String-.py](./Python/[8%20kyu]%20Contamination%20#1%20-String-.py)
@@ -132,6 +136,8 @@
 * [[8 kyu] Do I get a bonus.py](./Python/[8%20kyu]%20Do%20I%20get%20a%20bonus.py)
 
 * [[8 kyu] Formatting decimal places #0.py](./Python/[8%20kyu]%20Formatting%20decimal%20places%20#0.py)
+
+* [[8 kyu] Is the string uppercase.py](./Python/[8%20kyu]%20Is%20the%20string%20uppercase.py)
 
 * [[8 kyu] Jumping Dutch act.py](./Python/[8%20kyu]%20Jumping%20Dutch%20act.py)
 
