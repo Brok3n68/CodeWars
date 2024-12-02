@@ -93,6 +93,8 @@
 
 * [[6 kyu] Split Strings.py](./Python/[6%20kyu]%20Split%20Strings.py)
 
+* [[6 kyu] Sums of Parts.py](./Python/[6%20kyu]%20Sums%20of%20Parts.py)
+
 * [[7 kyu] Are the numbers in order.py](./Python/[7%20kyu]%20Are%20the%20numbers%20in%20order.py)
 
 * [[7 kyu] Check three and two.py](./Python/[7%20kyu]%20Check%20three%20and%20two.py)
