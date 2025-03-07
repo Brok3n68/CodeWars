@@ -37,6 +37,8 @@
 
 * [[4 kyu] Most frequently used words in a text.py](./Python/[4%20kyu]%20Most%20frequently%20used%20words%20in%20a%20text.py)
 
+* [[4 kyu] Mystery Function.py](./Python/[4%20kyu]%20Mystery%20Function.py)
+
 * [[4 kyu] Range Extraction.py](./Python/[4%20kyu]%20Range%20Extraction.py)
 
 * [[4 kyu] Simplifying multilinear polynomials.py](./Python/[4%20kyu]%20Simplifying%20multilinear%20polynomials.py)
@@ -156,6 +158,8 @@
 * [[8 kyu] Multiply.py](./Python/[8%20kyu]%20Multiply.py)
 
 * [[8 kyu] Reversed Words.py](./Python/[8%20kyu]%20Reversed%20Words.py)
+
+* [[8 kyu] String repeat.py](./Python/[8%20kyu]%20String%20repeat.py)
 
 * [[8 kyu] Take the Derivative.py](./Python/[8%20kyu]%20Take%20the%20Derivative.py)
 
