@@ -103,6 +103,8 @@
 
 * [[6 kyu] PatternCraft - State.py](./Python/[6%20kyu]%20PatternCraft%20-%20State.py)
 
+* [[6 kyu] Roman Numerals Decoder.py](./Python/[6%20kyu]%20Roman%20Numerals%20Decoder.py)
+
 * [[6 kyu] Split Strings.py](./Python/[6%20kyu]%20Split%20Strings.py)
 
 * [[6 kyu] Sums of Parts.py](./Python/[6%20kyu]%20Sums%20of%20Parts.py)
