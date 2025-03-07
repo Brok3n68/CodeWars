@@ -25,7 +25,11 @@
 
 * [[3 kyu] The Millionth Fibonacci Kata.py](./Python/[3%20kyu]%20The%20Millionth%20Fibonacci%20Kata.py)
 
+* [[4 kyu] All Balanced Parentheses.py](./Python/[4%20kyu]%20All%20Balanced%20Parentheses.py)
+
 * [[4 kyu] Catching Car Mileage Numbers.py](./Python/[4%20kyu]%20Catching%20Car%20Mileage%20Numbers.py)
+
+* [[4 kyu] How many numbers III.py](./Python/[4%20kyu]%20How%20many%20numbers%20III.py)
 
 * [[4 kyu] Human readable duration format.py](./Python/[4%20kyu]%20Human%20readable%20duration%20format.py)
 
@@ -34,6 +38,8 @@
 * [[4 kyu] Most frequently used words in a text.py](./Python/[4%20kyu]%20Most%20frequently%20used%20words%20in%20a%20text.py)
 
 * [[4 kyu] Range Extraction.py](./Python/[4%20kyu]%20Range%20Extraction.py)
+
+* [[4 kyu] Simplifying multilinear polynomials.py](./Python/[4%20kyu]%20Simplifying%20multilinear%20polynomials.py)
 
 * [[4 kyu] Snail.py](./Python/[4%20kyu]%20Snail.py)
 
